@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tovmas Harison
 - 👀 I’m interested in Software Development - Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 You can reach me at harrisontovmas@gmail.com
 <!---
 tovmasharrison/tovmasharrison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
